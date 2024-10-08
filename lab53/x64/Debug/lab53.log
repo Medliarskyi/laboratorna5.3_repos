@@ -1,0 +1,3 @@
+﻿  lab53.cpp
+D:\Юра\lab53\lab53\lab53.cpp(64): warning C4715: 's': not all control paths return a value
+  lab53.vcxproj -> D:\Юра\lab53\x64\Debug\lab53.exe
